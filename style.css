@@ -154,7 +154,7 @@ body.menu-expanded > :not(nav) {
 }
 .menu,
 .close-menu,
-boby.menu-expanded .open-menu {
+body.menu-expanded .open-menu {
   opacity: 0;
   visibility: hidden;
 }
